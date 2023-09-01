@@ -4,11 +4,6 @@
     <test verbose="2" preserve-order="true" name="Epam page testing">
         <classes>
             <class name="tests.Tests"/>
-
-
-
-
-
         </classes>
     </test>
 </suite>
